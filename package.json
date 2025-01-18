@@ -1,0 +1,14 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+ "devDependencies": {
+  "htmlhint": "^0.14.2",
+  "stylelint": "^13.13.1"
+}
+
+  }
